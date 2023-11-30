@@ -1,7 +1,7 @@
 from starkware.starknet.business_logic.contract_definition import StarknetContract
 from starkware.starknet.definitions import starknet
 
-# Stefcio magik programowania
+# Stefcio magik programowania parara
 
 @starknet.contract
 def DexContract():
