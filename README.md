@@ -10,7 +10,7 @@ def DexContract():
         amount: uint256,
         price: uint256,
         buy: bool,
-    )
+      parrarararra
 
     # Struktura reprezentująca pojedyncą pozycję na rynku.
     position: record(
