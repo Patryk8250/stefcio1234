@@ -1,7 +1,8 @@
 from starkware.starknet.business_logic.contract_definition import StarknetContract
 from starkware.starknet.definitions import starknet
 
-# Definicja kontraktu dla prostego dekstra
+# Stefcio magik programowania
+
 @starknet.contract
 def DexContract():
     # Struktura reprezentująca pojedynczą transakcję na rynku.
